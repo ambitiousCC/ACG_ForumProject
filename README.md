@@ -1,4 +1,74 @@
 # ACG_ForumProject
+## profile
+* a small dilapidated station under construction
+* a simple interaction is completed
+Update process
+* updated at 2019-8-10:
+* users manage their own articles to achieve the deletion function
+* users edit their own articles and are fixing a problem where they can't get the value without doing anything
+* solved the search function bug, can carry on the fuzzy query
+* associated article content table and article table, cascading deletion
+The primary version targets feature scaffolding
+* blog
+	* logged in part2
+		* the main page
+			* navigation bar section
+				* personal data
+					* click to jump to profile page #3
+						* pay attention to #3 local refresh
+						* fan #3 local refresh
+						* dynamic #3 local refresh
+						* comment #3 local refresh
+						* favorite #3 local refresh
+						* navigation bar section
+							* you can choose the content above to jump to another page
+					* drop-down menu
+						* home page # 3
+						* favorite #3 local refresh
+						* like #3 local refresh
+						* set # 4
+							* setting of basic personal information
+							* develop
+							* mobile phone binding
+							* bind third-party software
+							* out of # 1
+					* log out of account #1
+				* search
+					* keyword search
+				* message
+					* drop-down menu
+			* post part: the first type: pagination;Type 2: read more #5
+				* topic
+					* title
+					* words
+					* the picture
+				* comment function
+				* like features
+				* attention function
+			* the sidebar
+				* recommended author
+	* not logged in to part1
+		* the main page
+			* navigation bar section
+				* login
+					* jump to the login page #1
+						* complete the basic login function
+							* mobile/email
+						* develop
+							* third-party login bindings
+							* login encountered problems #1.1
+				* registered
+					* jump to the registration page #2
+						* develop:
+							* mobile phone number binding
+							* user agreement and privacy policy # 2.1
+							* third party registration
+				* search
+					* keyword search
+			* post #5
+			* the sidebar
+				* recommended author
+---
 ## 概要
 *	正在建设中的小破站
 *	完成了简单的交互
